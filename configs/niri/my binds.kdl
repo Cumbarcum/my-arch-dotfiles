@@ -1,0 +1,5 @@
+    // My Binds
+    Mod+S { spawn "spotify-launcher"; }
+    Mod+M { maximize-column; }
+    Mod+Alt+Left  { set-column-width "-10%"; }
+    Mod+Alt+Right { set-column-width "+10%"; }
